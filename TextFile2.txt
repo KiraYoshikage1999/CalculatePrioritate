@@ -1,0 +1,42 @@
+//float userNumber;
+		//string userOperator;
+
+		//string* TestArr = OperArr;
+
+		//for (int i = 0; i < amountOfValues; i++) {
+		//	if ((ArrMemory[i] == "+") || (ArrMemory[i] == "-") || (ArrMemory[i] == "*") || (ArrMemory[i] == "/") || (ArrMemory[i] == "^") || (ArrMemory[i] == "|") || (ArrMemory[i] == "(") || (ArrMemory[i] == ")")) {
+
+		//		userOperator = ArrMemory[i];
+
+		//		// sort operators by priority , information take from https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8
+
+		//		if ((ArrMemory[i] == "+") || (ArrMemory[i] == "-")) {
+		//			AddInStrOpsPriorityArray(PriorityArr, amountOfPriorityValues, 5);
+		//			AddInCharOperatorsArray(OperArr, amountOfOper, userOperator);
+
+
+		//		}
+		//		else if ((ArrMemory[i] == "*") || (ArrMemory[i] == "/")) {
+		//			AddInStrOpsPriorityArray(PriorityArr, amountOfPriorityValues, 4);
+		//			AddInCharOperatorsArray(OperArr, amountOfOper, userOperator);
+		//		}
+		//		else if ((ArrMemory[i] == "^") || (ArrMemory[i] == "|")) {
+		//			AddInStrOpsPriorityArray(PriorityArr, amountOfPriorityValues, 3);
+		//			AddInCharOperatorsArray(OperArr, amountOfOper, userOperator);
+		//		}
+		//		else if ((ArrMemory[i] == "(") || (ArrMemory[i] == ")")) {
+		//			AddInStrOpsPriorityArray(PriorityArr, amountOfPriorityValues, 2);
+		//			AddInCharOperatorsArray(OperArr, amountOfOper, userOperator);
+		//		}
+
+		//	}
+		//	else if (IsDigit(ArrMemory[i])) {
+		//		userNumber = stof(ArrMemory[i].c_str());
+		//		AddInArrayNumber(numberArr, amountOfOperands, userNumber);
+		//	}
+		//	else {
+
+
+		//	}
+
+		//}

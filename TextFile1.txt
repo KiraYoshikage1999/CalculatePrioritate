@@ -1,0 +1,5 @@
+
+new expression[10, * , X, - , 4]
+sub expression[2, +, 2]
+
+10 * ( 2 + 2 ) - 4
